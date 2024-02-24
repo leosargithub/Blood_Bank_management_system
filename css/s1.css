@@ -1,0 +1,60 @@
+#full{
+	width: 100;
+	height: auto;
+
+}
+#inner_full{
+	width: 80%;
+	height: auto;
+	margin: auto;
+}
+#header{
+	width: 100%;
+	height: 50px;
+	background-color: #2596be ;
+
+		color: white;
+
+}
+#body{
+	width: 100%;
+	height: 400px;
+}
+#footer{
+	width: 100%;
+	height: 50px;
+	background-color: #2596be;
+	color: white;
+}
+.btn{
+	align: center;
+}
+ul li{
+	width: 20%;
+	height: 50px;
+	line-height: 50px;
+	margin-left:50px;
+	background:  #0074D9;
+	opacity: 0.9;
+	color: white;
+	float: left;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+	border-radius: 15px;
+
+
+
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+}
+#form{
+	width: 80%;
+	height: 250px;
+	background-color: #2ECC40;
+	color: white;
+	border-radius: 15px;
+
+}
